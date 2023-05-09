@@ -9,7 +9,7 @@ To run this project, you need to have Node.js and npm installed on your machine.
 ## Installation
 
 1. Clone this repository to your local machine using the following command: 
-git clone https://github.com/your-username/visual-testing.git
+git clone git@github.com:vishnu31996/visual-testing.git
 
 2. Install the required dependencies by running the following command in the project directory:
 
